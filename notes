@@ -10,6 +10,7 @@ no tabs, spaces instead.
 
 questions:
 
-do I have to use double spaces or is quad also acceptable?
+-do I have to use double spaces or is quad also acceptable?
+  "YAML does not include any mandatory spaces. Further, there is no need to be consistent."
 
-how to make muilti line comments?
+-how to make muilti line comments?
