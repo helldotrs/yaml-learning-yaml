@@ -14,3 +14,13 @@ questions:
   "YAML does not include any mandatory spaces. Further, there is no need to be consistent."
 
 -how to make muilti line comments?
+basically an unused string?
+comment : >
+  this
+  that
+  the other
+
+comment : |
+  this
+  that
+  the other
